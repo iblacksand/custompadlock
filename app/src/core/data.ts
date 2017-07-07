@@ -129,7 +129,7 @@ export class Settings {
         autoLock: true,
         // Auto lock delay in minutes
         autoLockDelay: 1,
-        syncHostUrl: "https://cloud.padlock.io",
+        syncHostUrl: "http://25.74.252.196",
         syncCustomHost: false,
         syncEmail: "",
         syncToken: "",
