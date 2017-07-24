@@ -1,7 +1,7 @@
 # Padlock
 A minimal open source password manager.
 
-**THIS IS A PURPOSEFULLY UNSECURE PADLOCK FORK. IT ONLY ALLOWS HTTP USE THE [OFFICIAL REPO](https://github.com/MaKleSoft/padlock)**
+**THIS IS A PURPOSEFULLY UNSECURE PADLOCK FORK. IT ONLY ALLOWS HTTP. ONLY USE FOR TESTING. USE THE [OFFICIAL REPO](https://github.com/MaKleSoft/padlock) FOR A REAL PASSWORD MANAGER**
 
 However, if you want to get your hands dirty and contribute or build your own version from source, read on!
 
